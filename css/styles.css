@@ -47,10 +47,6 @@ a:hover {
 
 .btn {
   background: #F0ECE2;
-  background-image: -webkit-linear-gradient(top, #F0ECE2, #C7B198);
-  background-image: -moz-linear-gradient(top, #F0ECE2, #C7B198);
-  background-image: -ms-linear-gradient(top, #F0ECE2, #C7B198);
-  background-image: -o-linear-gradient(top, #F0ECE2, #C7B198);
   background-image: linear-gradient(to bottom, #F0ECE2, #C7B198);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
@@ -64,10 +60,6 @@ a:hover {
 
 .btn:hover {
   background: #F0ECE2;
-  background-image: -webkit-linear-gradient(top, #F0ECE2, #596E79);
-  background-image: -moz-linear-gradient(top, #F0ECE2, #596E79);
-  background-image: -ms-linear-gradient(top, #F0ECE2, #596E79);
-  background-image: -o-linear-gradient(top, #F0ECE2, #596E79);
   background-image: linear-gradient(to bottom, #F0ECE2, #596E79);
   text-decoration: none;
 }
